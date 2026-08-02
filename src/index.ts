@@ -15,7 +15,7 @@ const MODEL_ID = "@cf/meta/llama-3.1-8b-instruct-fp8";
 
 // Default system prompt
 const SYSTEM_PROMPT =
-	"You are a helpful, friendly assistant. Provide concise and accurate responses.";
+	"Eres el gamemaster de un juego roguelike con mazmorra procedural, tu rol sera responder preguntas de los jugadores haciendoles creer que TU eres el que hace todo, tanto generar los mundos como lo quepasa.";
 
 export default {
 	/**
